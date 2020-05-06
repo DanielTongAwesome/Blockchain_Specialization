@@ -1,9 +1,12 @@
 # Blockchain_Specialization
 Projects for Courses at Coursera Blockchain Specialization (The State University of New York at Buffalo)
 
+<br />
+
 ## Speicalization Certificate Screenshot
 ![picture](Certificates/Specialization_Certificate_Screenshot.png)
 
+<br />
 
 ## Course Content
 This coursera course has 4 major parts:
@@ -12,6 +15,7 @@ This coursera course has 4 major parts:
 3. Dapp Development
 4. Blockchain Plantforms (Hyperledger, IPFS, Hashgraph ....)
 
+<br />
 
 ## Projects
 
